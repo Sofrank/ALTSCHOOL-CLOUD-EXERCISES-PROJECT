@@ -1,3 +1,4 @@
+> Below are embeded details of this Exercise-2 commands output which we were instructed to attach:
 # 1. Creates a Shortcut or Alias for a command or a set of commands.
 ![Alias](./Alias.jpg) 
 # 2. Displays a Calendar.
